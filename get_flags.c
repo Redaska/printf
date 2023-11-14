@@ -7,7 +7,7 @@
  * @i: take a parameter.
  *
 =======
- * @i: take a parameter. 
+ * @i: take a parameter.
 >>>>>>> cfc561fdc9ef14ebab4a1642190fae42e9923033
  * Return: Flags:
  */
